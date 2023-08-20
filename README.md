@@ -8,15 +8,25 @@
 🏆 I am always up for new challenge
 
 ## Connect with me
-<a href="" target="_blank">
-  <img src="" width='20px' height='20px'></img>
-</a>
-<a href="" target="_blank">
-  <img src="" width='20px' height='20px'></img>
-</a>
-<a href="" target="_blank">
-  <img src="" width='20px' height='20px'></img>
-</a>
+  <a href="https://www.linkedin.com/jobs/" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/bubble-gradient-social-media-1/200/linkedin-512.png" width='35px'  alt='LinkedIn'><img>
+  </a>
+  <a href="https://www.linkedin.com/jobs/" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/bubble-gradient-social-media-1/200/instagram-512.png" width='35px' alt='Instagram'><img>
+  </a>
+  <a href="https://t.me/vitalikplatko" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/bubble-gradient-social-media-1/200/telegramm-512.png" width='35px' alt='LinkedIn'><img>
+  </a>
 
 
 ## Lenguage and tools
+
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width="35px"></img>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="35px"></img>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="35px"></img>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="35px"></img>
+<img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-256.png" width="35px"></img>
+<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" width="35px"></img>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="35px"></img>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="35px"></img>
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" width="35px"></img>
