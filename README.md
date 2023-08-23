@@ -26,6 +26,6 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="35px"></img>
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" width="35px"></img>
 <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" width="35px"></img>
-<img src="https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/redux-fill-256.png" width="35px"></img>
+<img src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" width="35px"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="35px"></img>
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" width="35px"></img>
