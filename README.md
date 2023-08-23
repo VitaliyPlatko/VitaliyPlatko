@@ -26,6 +26,6 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="35px"></img>
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" width="35px"></img>
 <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" width="35px"></img>
-<img src="https://cdn.iconfinder.com/stored_data/1216154/128/png?token=1692523745-jpnrytZGWST7gcT2qb4pAt%2BIWULLiSed4H9HVN6PWcI%3D" width="35px"></img>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.logrocket.com%2Fwhen-and-when-not-to-use-redux-41807f29a7fb%2F&psig=AOvVaw2QPcH5NbuWzhjwSxemp13v&ust=1692898441589000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODc9qOo84ADFQAAAAAdAAAAABAE" width="35px"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="35px"></img>
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" width="35px"></img>
